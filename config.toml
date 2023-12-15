@@ -1,64 +1,20 @@
-logging-to-file = true        # enables logging of every patch process to a seperate file
-enable-magisk-update = true   # set this to false if you do not want to receive updates for the module in magisk app
-
-# add 'enabled = false' for not patching a specific app or remove it from the config
-# see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
-
-# you can use rvmm-config-gen to generate a config
-
-[YouTube]
-build-mode = "both"
-excluded-patches = ""
-included-patches = ""
-version = "auto"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
-
 [Music]
-build-mode = "both"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
-arch = "both"
-
-[Music-Extended]
-app-name = "Music"
-patches-source = "inotia00/revanced-patches"
-integrations-source = "inotia00/revanced-integrations"
-cli-source = "inotia00/revanced-cli"
-rv-brand = "ReVanced Extended"
-build-mode = "both"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
-arch = "both"
-
-[YouTube-Extended]
-app-name = "YouTube"
-patches-source = "inotia00/revanced-patches"
-integrations-source = "inotia00/revanced-integrations"
-cli-source = "inotia00/revanced-cli"
-rv-brand = "ReVanced Extended"
-build-mode = "both"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
-
-[Twitter]
-build-mode = "apk"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 
 [Twitch]
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
+apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
 
-[TikTok]
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
+[Instagram]
+apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 
-[Reddit]
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
+[Twitter]
+apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
+excluded-patches = "'Dynamic color'"
 
-[Messenger]
-enabled = false
-apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/messenger/"
-arch = "arm64-v8a"
+[YouTube]
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+excluded-patches = "'Tablet mini player' 'Hide autoplay button' 'Hide captions button' 'Hide player buttons' 'Hide cast button' 'Disable auto captions' 'Premium heading' 'Alternative thumbnails' 'Enable tablet layout' 'Return YouTube Dislike' 'Comments' 'Hide floating microphone button' 'Hide email address' 'Hide breaking news shelf' 'Hide endscreen cards' 'Disable rolling number animations' 'Always autorepeat' 'Announcements'"
 
-[Spotify]
-enabled = false
-uptodown-dlurl = "https://spotify.en.uptodown.com/android"
+[Tiktok]
+apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 
-[IconPackStudio]
-enabled = false
-apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
