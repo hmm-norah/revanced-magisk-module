@@ -4,26 +4,3 @@ enable-magisk-update = false
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 build-mode = "module"
 excluded-patches = "'GmsCore support'"
-
-[Twitch]
-build-mode = "module"
-apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
-
-[Instagram]
-build-mode = "module"
-apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
-
-[Twitter]
-build-mode = "module"
-apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
-excluded-patches = "'Dynamic color'"
-
-[YouTube]
-build-mode = "module"
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-excluded-patches = "'Tablet mini player' 'Hide autoplay button' 'Hide captions button' 'Hide player buttons' 'Hide cast button' 'Disable auto captions' 'Premium heading' 'Alternative thumbnails' 'Enable tablet layout' 'Return YouTube Dislike' 'Comments' 'Hide floating microphone button' 'Hide email address' 'Hide breaking news shelf' 'Hide endscreen cards' 'Disable rolling number animations' 'Always autorepeat' 'Announcements'"
-
-[Tiktok]
-build-mode = "module"
-apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
-
