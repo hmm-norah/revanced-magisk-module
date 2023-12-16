@@ -1,6 +1,9 @@
+enable-magisk-update = false
+
 [Music]
-build-mode = "module"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
+build-mode = "module"
+excluded-patches = "'GmsCore support'"
 
 [Twitch]
 build-mode = "module"
