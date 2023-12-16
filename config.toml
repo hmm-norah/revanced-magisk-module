@@ -2,10 +2,13 @@ enable-magisk-update = false
 
 [Instagram]
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
+arch = "arm64-v8a"
 build-mode = "module"
 
 [Twitter]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
+arch = "arm64-v8a"
 
 [Boost]
-apkmirror-dlurl = "https://apkmirror.com/apk/ruben-mayayo/boost-for-reddit/
+apkmirror-dlurl = "https://apkmirror.com/apk/ruben-mayayo/boost-for-reddit/"
+arch = "arm64-v8a"
