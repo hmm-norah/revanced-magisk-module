@@ -16,9 +16,11 @@ apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 excluded-patches = "'Dynamic color'"
 
 [YouTube]
+build-mode = "module"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 excluded-patches = "'Tablet mini player' 'Hide autoplay button' 'Hide captions button' 'Hide player buttons' 'Hide cast button' 'Disable auto captions' 'Premium heading' 'Alternative thumbnails' 'Enable tablet layout' 'Return YouTube Dislike' 'Comments' 'Hide floating microphone button' 'Hide email address' 'Hide breaking news shelf' 'Hide endscreen cards' 'Disable rolling number animations' 'Always autorepeat' 'Announcements'"
 
 [Tiktok]
+build-mode = "module"
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
 
