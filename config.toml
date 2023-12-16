@@ -1,13 +1,17 @@
 [Music]
+build-mode = "module"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 
 [Twitch]
+build-mode = "module"
 apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
 
 [Instagram]
+build-mode = "module"
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 
 [Twitter]
+build-mode = "module"
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
 excluded-patches = "'Dynamic color'"
 
