@@ -2,5 +2,6 @@ enable-magisk-update = false
 
 [Music]
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
+apkmirror-arch = "arm64-v8a"
 build-mode = "module"
 excluded-patches = "'GmsCore support'"
