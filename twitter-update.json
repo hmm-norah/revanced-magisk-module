@@ -1,6 +1,6 @@
 {
-  "version": "v10.20.0-release.0",
-  "versionCode": 3,
-  "zipUrl": "https://github.com/hmm-norah/revanced-magisk-module/releases/download/3/twitter-revanced-magisk-v10.20.0-release.0-all.zip",
+  "version": "v10.21.0-release.0",
+  "versionCode": 7,
+  "zipUrl": "https://github.com/hmm-norah/revanced-magisk-module/releases/download/7/twitter-revanced-magisk-v10.21.0-release.0-all.zip",
   "changelog": "https://raw.githubusercontent.com/hmm-norah/revanced-magisk-module/update/build.md"
 }
