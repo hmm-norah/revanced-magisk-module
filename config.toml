@@ -9,7 +9,6 @@ parallel-jobs = 1
 [YouTube]
 build-mode = "both"
 excluded-patches = "'Enable debugging' 'Theme' 'Return YouTube Dislike'"
-included-patches = ""
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
