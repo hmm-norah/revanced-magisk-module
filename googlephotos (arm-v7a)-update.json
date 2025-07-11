@@ -1,6 +1,6 @@
 {
-  "version": "v7.35.0.774533729 (patches: 5.29.0)",
-  "versionCode": 61,
-  "zipUrl": "https://github.com/hmm-norah/revanced-magisk-module/releases/download/61/googlephotos-revanced-magisk-v7.35.0.774533729-arm-v7a.zip",
+  "version": "v7.36.0.779865778 (patches: 5.31.1)",
+  "versionCode": 63,
+  "zipUrl": "https://github.com/hmm-norah/revanced-magisk-module/releases/download/63/googlephotos-revanced-magisk-v7.36.0.779865778-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/hmm-norah/revanced-magisk-module/update/build.md"
 }
