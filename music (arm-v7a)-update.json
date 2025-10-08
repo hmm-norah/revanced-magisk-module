@@ -1,6 +1,6 @@
 {
-  "version": "v8.10.52 (patches: 5.41.0)",
-  "versionCode": 74,
-  "zipUrl": "https://github.com/hmm-norah/revanced-magisk-module/releases/download/74/music-revanced-magisk-v8.10.52-arm-v7a.zip",
+  "version": "v8.10.52 (patches: 5.42.1)",
+  "versionCode": 75,
+  "zipUrl": "https://github.com/hmm-norah/revanced-magisk-module/releases/download/75/music-revanced-magisk-v8.10.52-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/hmm-norah/revanced-magisk-module/update/build.md"
 }
