@@ -1,6 +1,6 @@
 {
-  "version": "v20.14.43 (patches: 5.43.1)",
-  "versionCode": 77,
-  "zipUrl": "https://github.com/hmm-norah/revanced-magisk-module/releases/download/77/youtube-revanced-magisk-v20.14.43-all.zip",
+  "version": "v20.14.43 (patches: 5.44.0)",
+  "versionCode": 78,
+  "zipUrl": "https://github.com/hmm-norah/revanced-magisk-module/releases/download/78/youtube-revanced-magisk-v20.14.43-all.zip",
   "changelog": "https://raw.githubusercontent.com/hmm-norah/revanced-magisk-module/update/build.md"
 }
